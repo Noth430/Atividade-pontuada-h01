@@ -59,5 +59,5 @@ print(f"Média dos números pares: {media_pares:.2f}")
 print(f"Média dos números ímpares: {media_impares:.2f}")
 print(f"Média de todos os números: {media_geral:.2f}")
 for i, numero in enumerate(reversed(lista_vetores)):
-    print(f"{len(lista_vetores)- i}º - {numero}")5
+    print(f"{len(lista_vetores)- i}º - {numero}")
     
